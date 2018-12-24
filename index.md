@@ -13,6 +13,7 @@ Welcome to test-docs's documentation!
 
    test
    linux-commands
+   file_mover
 
 
 
